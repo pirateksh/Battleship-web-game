@@ -1,7 +1,7 @@
 # Battleship-web-game
 
-## Techn Stack Used:
-* HTML
+## Technology Stack Used:
+* [HTML](https://www.w3schools.com/html/)
 * [Phaser 3](https://phaser.io/phaser3)
 
 ## Relevant Tutorials:
